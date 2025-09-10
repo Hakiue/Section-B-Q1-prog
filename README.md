@@ -4,4 +4,4 @@ Main Problem: The main issue facing the traditional libraries is that they have 
 My Solution
 A multi-purpose Java-based Library Management System that will digitize, automate library operations, converting manual processes into efficient error free digital work processes.
 
-Claude (Anthropic AI). 2024. LibraryManager.java - Core Business Logic and Data Management Class. . Created for Programming 1B Assignment, The Independent Institute of Education. 8 September.
+Claude (Anthropic AI). 2025. LibraryManager.java - Core Business Logic and Data Management Class. . Created for Programming 1B Assignment, The Independent Institute of Education. 8 September.
